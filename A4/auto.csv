@@ -1,0 +1,101 @@
+mpg,horsepower,weight,origin,name
+18,130,3504,American,chevrolet chevelle malibu
+15,165,3693,American,buick skylark 320
+18,150,3436,American,plymouth satellite
+16,150,3433,American,amc rebel sst
+17,140,3449,American,ford torino
+15,198,4341,American,ford galaxie 500
+14,220,4354,American,chevrolet impala
+14,215,4312,American,plymouth fury iii
+14,225,4425,American,pontiac catalina
+15,190,3850,American,amc ambassador dpl
+15,170,3563,American,dodge challenger se
+14,160,3609,American,plymouth 'cuda 340
+15,150,3761,American,chevrolet monte carlo
+14,225,3086,American,buick estate wagon (sw)
+24,95,2372,Japanese,toyota corona mark ii
+22,95,2833,American,plymouth duster
+18,97,2774,American,amc hornet
+21,85,2587,American,ford maverick
+27,88,2130,Japanese,datsun pl510
+26,46,1835,European,volkswagen 1131 deluxe sedan
+25,87,2672,European,peugeot 504
+24,90,2430,European,audi 100 ls
+25,95,2375,European,saab 99e
+26,113,2234,European,bmw 2002
+21,90,2648,American,amc gremlin
+10,215,4615,American,ford f250
+10,200,4376,American,chevy c20
+11,210,4382,American,dodge d200
+9,193,4732,American,hi 1200d
+27,88,2130,Japanese,datsun pl510
+28,90,2264,American,chevrolet vega 2300
+25,95,2228,Japanese,toyota corona
+19,100,2634,American,amc gremlin
+16,105,3439,American,plymouth satellite custom
+17,100,3329,American,chevrolet chevelle malibu
+19,88,3302,American,ford torino 500
+18,100,3288,American,amc matador
+14,165,4209,American,chevrolet impala
+14,175,4464,American,pontiac catalina brougham
+14,153,4154,American,ford galaxie 500
+14,150,4096,American,plymouth fury iii
+12,180,4955,American,dodge monaco (sw)
+13,170,4746,American,ford country squire (sw)
+13,175,5140,American,pontiac safari (sw)
+18,110,2962,American,amc hornet sportabout (sw)
+22,72,2408,American,chevrolet vega (sw)
+19,100,3282,American,pontiac firebird
+18,88,3139,American,ford mustang
+23,86,2220,American,mercury capri 2000
+28,90,2123,European,opel 1900
+30,70,2074,European,peugeot 304
+30,76,2065,European,fiat 124b
+31,65,1773,Japanese,toyota corolla 1200
+35,69,1613,Japanese,datsun 1200
+27,60,1834,European,volkswagen model 111
+26,70,1955,American,plymouth cricket
+24,95,2278,Japanese,toyota corona hardtop
+25,80,2126,American,dodge colt hardtop
+23,54,2254,European,volkswagen type 3
+20,90,2408,American,chevrolet vega
+21,86,2226,American,ford pinto runabout
+13,165,4274,American,chevrolet impala
+14,175,4385,American,pontiac catalina
+15,150,4135,American,plymouth fury iii
+14,153,4129,American,ford galaxie 500
+17,150,3672,American,amc ambassador sst
+11,208,4633,American,mercury marquis
+13,155,4502,American,buick lesabre custom
+12,160,4456,American,oldsmobile delta 88 royale
+13,190,4422,American,chrysler newport royal
+19,97,2330,Japanese,mazda rx2 coupe
+15,150,3892,American,amc matador (sw)
+13,130,4098,American,chevrolet chevelle concours (sw)
+13,140,4294,American,ford gran torino (sw)
+14,150,4077,American,plymouth satellite custom (sw)
+18,112,2933,European,volvo 145e (sw)
+22,76,2511,European,volkswagen 411 (sw)
+21,87,2979,European,peugeot 504 (sw)
+26,69,2189,European,renault 12 (sw)
+22,86,2395,American,ford pinto (sw)
+28,92,2288,Japanese,datsun 510 (sw)
+23,97,2506,Japanese,toyouta corona mark ii (sw)
+28,80,2164,American,dodge colt (sw)
+27,88,2100,Japanese,toyota corolla 1600 (sw)
+13,175,4100,American,buick century 350
+14,150,3672,American,amc matador
+13,145,3988,American,chevrolet malibu
+14,137,4042,American,ford gran torino
+15,150,3777,American,dodge coronet custom
+12,198,4952,American,mercury marquis brougham
+13,150,4464,American,chevrolet caprice classic
+13,158,4363,American,ford ltd
+14,150,4237,American,plymouth fury gran sedan
+13,215,4735,American,chrysler new yorker brougham
+12,225,4951,American,buick electra 225 custom
+13,175,3821,American,amc ambassador brougham
+18,105,3121,American,plymouth valiant
+16,100,3278,American,chevrolet nova custom
+18,100,2945,American,amc hornet
+18,88,3021,American,ford maverick
